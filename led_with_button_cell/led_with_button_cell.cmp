@@ -1,0 +1,24 @@
+Cmp-Mod V01 Created by CvPcb (22-Jun-2014 BZR 4027)-stable date = mar. 14 oct. 2014 11:55:07 CEST
+
+BeginCmp
+TimeStamp = /542DB03F;
+Reference = BT1;
+ValeurCmp = BATTERY;
+IdModule  = CR2032H;
+EndCmp
+
+BeginCmp
+TimeStamp = /542DAB95;
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = LED-3MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /542DAB83;
+Reference = R1;
+ValeurCmp = 470;
+IdModule  = R3;
+EndCmp
+
+EndListe
